@@ -1,3 +1,4 @@
+
 image: gitpod/workspace-full
 
 ports:
@@ -8,3 +9,9 @@ ports:
 tasks:
   - init: npm install
     command: npm run dev
+
+vscode:
+  extensions:
+    - svelte.svelte-vscode
+    - github.vscode-pull-request-github
+    - ms-azuretools.vscode-docker
