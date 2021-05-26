@@ -1,5 +1,7 @@
 # Svelte Demo App
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cainux/svdemo)
+
 For the Learning Bytes session given on 2021-05-25.
 
 ## Get started
